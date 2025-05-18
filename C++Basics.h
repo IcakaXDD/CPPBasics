@@ -1,0 +1,1 @@
+void ReadAndWriteFunction(int& retFlag);
